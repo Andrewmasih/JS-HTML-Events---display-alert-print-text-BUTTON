@@ -1,0 +1,16 @@
+body {
+  background-color:  lightblue;
+  color: yellow;
+}
+
+h2, p {
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+button {
+  position: relative;
+  left: 100px;
+  
+}
